@@ -1,4 +1,4 @@
-# ENOS_2box
+# ENOS_2box (v0)
 2box inversion script for simultaneous optimisation of emissions-lifetime-isotopes-KIE
 COMPLETE TWO-BOX CH4 INVERSION WITH TIME-VARYING EMISSIONS AND ISOTOPES
 
